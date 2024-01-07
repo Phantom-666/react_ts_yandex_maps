@@ -1,0 +1,155 @@
+const moscowCoordinates = [
+  {
+    name: "Red Square",
+    latitude: 55.7539,
+    longitude: 37.6208,
+    info: "Iconic square in Moscow",
+  },
+  {
+    name: "Kremlin",
+    latitude: 55.7517,
+    longitude: 37.6178,
+    info: "Historic fortress complex",
+  },
+  {
+    name: "Arbat Street",
+    latitude: 55.7484,
+    longitude: 37.5946,
+    info: "Famous pedestrian street",
+  },
+  {
+    name: "Gorky Park",
+    latitude: 55.7311,
+    longitude: 37.6027,
+    info: "Popular city park",
+  },
+  {
+    name: "Bolshoi Theatre",
+    latitude: 55.7601,
+    longitude: 37.6187,
+    info: "Renowned theater",
+  },
+  {
+    name: "VDNKh",
+    latitude: 55.8245,
+    longitude: 37.637,
+    info: "Exhibition center and park",
+  },
+  {
+    name: "Sparrow Hills",
+    latitude: 55.7036,
+    longitude: 37.5302,
+    info: "Scenic viewpoint",
+  },
+  {
+    name: "Izmailovo Park",
+    latitude: 55.7963,
+    longitude: 37.7731,
+    info: "Large park with attractions",
+  },
+  {
+    name: "Tsaritsyno Palace",
+    latitude: 55.6127,
+    longitude: 37.6945,
+    info: "Historic palace and park",
+  },
+  {
+    name: "Novodevichy Convent",
+    latitude: 55.7272,
+    longitude: 37.5522,
+    info: "UNESCO World Heritage site",
+  },
+  {
+    name: "Tretyakov Gallery",
+    latitude: 55.7415,
+    longitude: 37.6206,
+    info: "Art museum",
+  },
+  {
+    name: "Pushkin Museum",
+    latitude: 55.7373,
+    longitude: 37.5947,
+    info: "Fine arts museum",
+  },
+  {
+    name: "VDNKh Cosmos Pavilion",
+    latitude: 55.8225,
+    longitude: 37.6335,
+    info: "Space-themed pavilion",
+  },
+  {
+    name: "Ostankino Tower",
+    latitude: 55.8225,
+    longitude: 37.6172,
+    info: "Tallest free-standing structure in Europe",
+  },
+  {
+    name: "Kuzminsky Park",
+    latitude: 55.7284,
+    longitude: 37.7575,
+    info: "Park with ponds and walking paths",
+  },
+  {
+    name: "Poklonnaya Hill",
+    latitude: 55.7294,
+    longitude: 37.5029,
+    info: "Memorial complex and park",
+  },
+  {
+    name: "Sokolniki Park",
+    latitude: 55.7964,
+    longitude: 37.6822,
+    info: "One of the oldest parks in Moscow",
+  },
+  {
+    name: "Vorobyovy Gory",
+    latitude: 55.7092,
+    longitude: 37.5531,
+    info: "Hills with panoramic views",
+  },
+  {
+    name: "Metro Station - Mayakovskaya",
+    latitude: 55.7642,
+    longitude: 37.6007,
+    info: "Art deco metro station",
+  },
+  {
+    name: "Botanical Garden",
+    latitude: 55.8441,
+    longitude: 37.6092,
+    info: "Large botanical garden",
+  },
+  {
+    name: "Zaryadye Park",
+    latitude: 55.7538,
+    longitude: 37.6255,
+    info: "Modern urban park",
+  },
+  {
+    name: "Victory Park",
+    latitude: 55.7359,
+    longitude: 37.5189,
+    info: "WWII memorial park",
+  },
+  {
+    name: "Moscow Zoo",
+    latitude: 55.7692,
+    longitude: 37.5925,
+    info: "Zoological garden",
+  },
+  {
+    name: "VDNKh Fountain",
+    latitude: 55.8221,
+    longitude: 37.6354,
+    info: "Impressive fountain display",
+  },
+  {
+    name: "Moscow River Embankment",
+    latitude: 55.7485,
+    longitude: 37.5383,
+    info: "Scenic riverside area",
+  },
+]
+const apikey = "507841c0-c986-4a40-b230-457b91e689ab"
+
+export { moscowCoordinates, apikey }
